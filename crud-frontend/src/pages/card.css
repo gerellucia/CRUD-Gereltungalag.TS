@@ -1,0 +1,45 @@
+.row{
+    margin-left: 60px;
+    margin-top: 15px;
+    padding: 30px;
+}
+
+.card{
+    float: left;
+    margin-left: 30px;
+    /* height: 300px;
+    width: 150px; */
+}
+
+.card-img-top{
+    height: 380px;
+}
+
+.card-body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#btn{
+    width: 85%;
+    margin-left: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.create{
+    margin-top: 50px;
+}
+
+.createinput{
+    width: 50%;
+    margin-top: 20px;
+    height: 50px;;
+    border-color: green;
+}
+
+#submit{
+    margin-top: 5px;
+}
+
+.updateinput{
+    width: 50%;
+}
